@@ -1,18 +1,26 @@
 aiohttp==3.8.3
-
 aiohttp-jinja2
-
 jinja2==3.0.3
-
 Telethon==1.26.1
-
 cryptg==0.4.0
-
 pillow
-
 aiohttp_session[secure]
-
 python-dotenv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
